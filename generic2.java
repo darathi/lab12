@@ -18,8 +18,8 @@ public class maxvalue {
         max<Double> obj2=new max<Double>(b);
         Integer in=obj1.Max();
         Double db=obj2.Max();
-        System.out.println("Minimum of integer array : "+in);
-        System.out.println("Minimum of double array : "+db);
+        System.out.println("Maximum of integer array : "+in);
+        System.out.println("Maximum of double array : "+db);
         
     }
 }
